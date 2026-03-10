@@ -18,7 +18,8 @@ recipes = {
     "Shrimp and Grits": ['shrimp', 'grits', 'cheese', 'bacon', 'green onion'],
     "Chicken Salad": ['chicken', 'mayonaise', 'onion', 'celery', 'mustard'],
     "Tomato Basil Soup" : ['tomatoes', 'basil', 'vegetable stock', 'cream'],
-    "Broccoli Cheddar Soup": ['broccoli', 'cheddar cheese', 'cream', 'vegetable broth']
+    "Broccoli Cheddar Soup": ['broccoli', 'cheddar cheese', 'cream', 'vegetable broth'],
+    "Enchiladas": ['tortilla', 'chicken', 'enchilada sauce', 'cheese']
 }
 
 # Function to recommend recipes
