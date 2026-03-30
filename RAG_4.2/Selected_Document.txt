@@ -1,0 +1,331 @@
+No matter which public topic you discuss or which personal aspect you worry about – you need reasons for your opinion and argumentation. Moreover, the ability of reasoning is responsible for your cognitive features of decision making and choosing among alternatives.
+
+Everyone of us uses these two abilities in everyday life to the utmost. Let us, therefore, consider the following scene of Knut's life:
+
+“It is again a rainy afternoon in Osnabrück (Germany) and as Knut and his wife are tired of observing the black crows in their garden they decide to escape from the shabby weather and spend their holidays in Spain. Knut has never been to Spain before and is pretty excited. They will leave the next day, thus he is packing his bag. The crucial things first: some underwear, some socks, a pair of pyjamas and his wash bag with a toothbrush, shampoo, soap, sun milk and insect spray. But, Knut cannot find the insect spray until his wife tells him that she lost it and will buy some new. He advises her to take an umbrella for the way to the chemist as it is raining outside, before he turns back to his packing task. But what did he already pack into his bag? Immediately, he remembers and continues, packing his clothing into the bag, considering that each piece fits another one and finally his Ipod as he exclusively listens to music with this device. Since the two of them are going on summer holidays, Knut packs especially shorts and T-Shirts into his bag. After approximately half an hour, he is finally convinced that he has done everything necessary for having some fine holidays.”
+
+With regard to this sketch of Knut's holiday preparation, we will explain the basic principles ofreasoninganddecision making. In the following, it will be shown how much cognitive work is necessary for this fragment of everyday life.
+After presenting an insight into the topic, we will illustrate what kind of brain lesions lead to what kind of impairments of these two cognitive features.
+
+In a process of reasoning available information is taken into account in form ofpremises. Through a process of inferencing aconclusionis reached on the base of these premises. The conclusion’s content of information goes beyond the one of the premises. To make this clear consider the following consideration Knut makes before planning his holiday:
+
+1. Premise: In all countries in southern Europe it is pretty warm during summer.
+
+2. Premise: Spain is in southern Europe.
+
+Conclusion: Therefore, in Spain it is pretty warm during summer.
+
+The conclusion in this example follows directly from the premises but it entails information which is not explicitly stated in the premises. This is a rather typical feature of a process of reasoning. In the following it is decided between the two major kinds of reasoning, namelyinductiveanddeductivewhich are often seen as the complement of one another.
+
+...
+
+In categorical syllogisms the statements of the premises begin typically with “all”, “none” or “some” and the conclusion starts with “therefore” or “hence”. These kinds of syllogisms fulfill the task of describing a relationship between two categories. In the example given above in the introduction of deductive reasoning these categories are Spain and the need for shorts and T-Shirts. Two different approaches serve the study of categorical syllogisms which are thenormative approachand thedescriptive approach.
+
+The normative approach is based on logic and deals with the problem of categorizing conclusions as either valid or invalid. Two basic principles and a method calledEuler circleshave been developed to help judging about thevalidity. 
+The first principle was created by Aristotle and says “If the two premises are true, the conclusion of a valid syllogism must be true” (Goldstein, 2005,page 431).
+The second principle explains why the following syllogism is (surprisingly) valid:
+
+All flowers are animals.All animals can jump.Therefore all flowers can jump.
+
+Even though it is quite obvious that the firstpremiseis not true and further that the conclusion is not true, the whole syllogism is still valid. The second principle inhales that “The validity of a syllogism is determined only by its form, not its content.”
+
+Due to this precondition it is possible to display asyllogismformally with symbols or letters and explain its relationship graphically with the help of diagrams.  As shown in the picture, there are various ways to demonstrate a premise graphically. Starting with a circle to represent the first premise and adding one or more circles for the second one, the crucial move is to compare the constructed diagram with the conclusion. It should be clearly laid out whether the diagrams are contradictory or not. Agreeing with one another, the syllogism is valid.
+
+The descriptive approach is concerned with estimating people´s ability of judging validity and explaining judging errors. 
+This psychological approach uses two methods in order to determine people`s performance. For the method ofevaluation(which is the preferred one) people are given two premises, a conclusion and the task to judge whether the syllogism is true or not. The method ofproductionsupplies the participants with two premises and asks them to develop a logically valid conclusion (if possible).
+
+With themethod of evaluationresearchers found typical reasons misjudgements about syllogisms. 
+Premises starting with “All”, “Some” or “No” imply a special atmosphere and influence a person in his decision. One mistake often occurring is judging a syllogism incorrectly as valid, in which the two premises as well as the conclusion starts with “All”. The influence of the provided atmosphere leads to the right decision at most times, but is definitely not reliable and guides the person to a rash decision. This phenomenon is summarized by theatmosphere effect. 
+In addition to the form of a syllogism, the content is likely to influence a person’s decision as well and cause the person to neglect his logical thinking.  Given a conclusion as “ Some bananas are pink”, hardly any participants would judge the syllogism as valid, even though it might be valid according to its premises (e.g. Some bananas are fruits. All fruits are pink.)
+Thebelief biasstates that people tend to judge syllogisms with believable conclusions as valid, while they tend to judge syllogisms with not believable conclusions as invalid.
+
+From the data already given it is still not possible to consider what mental processes might be occurring as people are trying to determine if a syllogism is valid.
+After finding out that Euler circles can be used to determine the validity of a syllogism Phillip Johnson – Laird (1999) wondered whether people would use such circles naturally when not haven been taught to them.
+At the same time he found out that they do not work for some more complex syllogisms and that a problem can be solved by applying logical rules, but most people solve them by imagining the situation.
+This is the base idea of people using mental models – a specific situation that is represented in a person’s mind that can be used to help determine the validity of syllogisms – to solve deductive reasoning problems. The basic principle behind such a mental model theory is: A conclusion is valid only if it cannot be refuted by any mode of the premises.
+This theory is attractive because it makes predictions that can be tested and because it can be applied without training in the rules of logic.
+But there are still problems that face researchers when trying to determine how people reason about syllogisms.
+These problems include the fact that a variety of different strategies are used by people in reasoning and that some people are better in solving syllogisms than others.
+
+Now it is known that people can be influenced by the content of syllogisms rather than by focusing on logic when judging their validity.
+Psychologists have wondered whether people are influenced by their cultures when judging. Therefore they have done cross – cultural experiments in which reasoning problems were presented to people in different cultures. They found out that people from different cultures judge differently to these questions. 
+For example, a man from a traditional tribe in Liberia would give a wrong answer to such a reasoning problem when the question is considered purely in terms of formal logic, but for justifying his answer he would use logic. This shows that the man uses evidence from his own experience (empirical evidence) but is ignoring evidence presented in the syllogism (theoretical evidence).
+When asking people to explain their answers it becomes clear that they often base their response on empirical evidence.
+Another fact that becomes by these experiments is the difference between educated and uneducated participants. Uneducated people are often affected by the believability of the conclusion, while educated people base their judgments on logic.
+These results might occur because of the difference in raising up their children. It also shows that European Americans for example are less susceptible to the belief bias then Eastern Asians. Such experiments strengthen the idea that people in different cultures may use different strategies for reasoning.
+
+Another type of syllogisms is called “conditional syllogism”. Just like the categorical one, it also has two premises and a conclusion. In difference the first premise has the form “If … then”. Syllogisms like this one are common in everyday life. Consider the following example from the story about Knut:
+
+1. Premise: If it is raining, Knut`s wife gets wet.
+
+2. Premise: It is raining.
+
+Conclusion: Therefore, Knut`s wife gets wet.
+
+Conditional syllogisms are typically given in the abstract form: “If p then q”, where “p” is called theantecedentand “q” theconsequent.
+
+There are four major forms of conditional syllogisms, namelyModus Ponens,Modus Tollens,Denying The AntecedentandAffirming The Consequent. These are illustrated in the table below (Figure 2) by means of the conditional syllogism above (i.e. If it is raining, Knut`s wife gets wet). The table indicates the premises, the resulting conclusions and it shows whether these are valid or not. The lowermost row displays the relative number of correct judgements people make about the validity of the conclusions.
+
+Obviously, the validity of the syllogisms with valid conclusions is easier to judge in a correct manner than the validity of the ones with invalid conclusions. The conclusion in the instance of the modus ponens is apparently valid. In the example it is very clear that Knut`s wife gets wet, if it is raining.
+
+The validity of the modus tollens is more difficult to recognize. Referring to the example, in the case that Knut`s wife does not get wet it can`t be raining. Because the first premise says that if it is raining, she gets wet. So the reason for Knut`s wife not getting wet is that it is not raining. Consequently, the conclusion is valid.
+
+The validity of the remaining two kinds of conditional syllogisms is judged correctly only by 40% of people. If the method of denying the antecedent is applied, the second premise says that it is not raining. But from this fact it follows not logically that Knut`s wife does not get wet – obviously rain is not the only reason for her to get wet. It could also be the case that the sun is shining and Knut tests his new water pistol and makes her wet. So, this kind of conditional syllogism does not lead to a valid conclusion.
+
+Affirming the consequent in the case of the given example means that the second premise says that Knut`s wife gets wet. But again the reason for this can be circumstances apart from rain. So, it follows not logically that it is raining. In consequence, the conclusion of this syllogism is invalid.
+
+The four kinds of syllogisms have shown that it is not always easy to make correct judgments concerning the validity of the conclusions. The following passages will deal with other errors people make during the process of conditional reasoning.
+
+TheWason Selection Taskis a famous experiment which shows that people make more errors in the process of reasoning, if it is concerned with abstract items than if it involves real-world items (Wason, 1966).
+In the abstract version of the Wason Selection Task four cards are shown to the participants with each a letter on one side and a number on the other (Figure 3, yellow cards). The task is to indicate the minimum number of cards that have to be turned over to test whether the following rule is observed: “If there is a vowel on one side then there is an even number on the other side”. 53% of participants selected the ‘E’ card which is correct, because turning this card over is necessary for testing the truth of the rule. However still another card needs to be turned over. 64% indicated that the ‘4’ card has to be turned over which is not right. Only 4% of participants answered correctly that the ‘7’ card needs to be turned over in addition to the ‘E’. The correctness of turning over these two cards becomes more obvious if the same task is stated in terms of real-world items instead of vowels and numbers. One of the experiments for determining this was the beer/drinking-age problem used by Richard Griggs and James Cox (1982). This experiment is identical to the Wason Selection Task except that instead of numbers and letters on the cards everyday terms (beer, soda and ages) were used (Figure 3, blue cards). Griggs and Cox gave the following rule to the participants: “If a person is drinking beer then he or she must be older than 19 years.” In this case 73% of participants answered in a correct way, namely that the cards with “Beer” and “14 years” on it have to be turned over to test whether the rule is kept.
+
+Why is the performance better in the case of real–world items?
+
+There are two different approaches which explain why participants’ performance is significantly better in the case of  the beer/drinking-age problem than in the abstract version of the Wason Selection Task, namely one approach concerning permission schemas and an evolutionary approach. 
+The regulation: “If one is 19 years or older then he/she is allowed to drink alcohol”, is known by everyone as an experience from everyday life (also called permission schema). As this permission schema is already learned by the participants it can be applied to the Wason Selection Task for real–world items to improve participants` performance. On the contrary such a permission schema from everyday life does not exist for the abstract version of the Wason Selection Task. 
+The evolutionary approach concerns the important human ability of cheater-detection . This approach states that an important aspect of human behaviour especially in the past was/is the ability for two persons to cooperate in a way that is beneficial for both of them. As long as each person receives a benefit for whatever he/she does in favour of the other one, everything works well in their social exchange. But if someone cheats and receives benefit from others without giving it back, some problem arises (see also chapter 3. Evolutionary Perspective on Social Cognitions). It is assumed that the property to detect cheaters has become a part of human`s cognitive makeup during evolution. This cognitive ability improves the performance in the beer/drinking-age version of the Wason Selection Task as it allows people to detect a cheating person who does not behave according to the rule. Cheater-detection does not work in the case of the abstract version of the Wason Selection Task as vowels and numbers do not behave or even cheat at all as opposed to human beings.
+
+In the previous sections deductive reasoning was discussed, reaching conclusions based on logical rules applied to a set of premises.
+However, many problems cannot be represented in a way that would make it possible to use these rules to get a conclusion. This subchapter is about a way to be able to decide in terms of these problems as well:inductive reasoning.
+
+Inductive reasoning is the process of making simple observations of a certain kind and applying these observations via generalization to a different problem to make a decision. Hence one infers from a special case to the general principle which is just the opposite of the procedure of deductive reasoning (Figure 4).
+
+A good example for this kind of reasoning is the following:
+
+Premise: All crows Knut and his wife have ever seen are black.
+
+Conclusion: Therefore, they reason that all crows on earth are black.
+
+In this example it is obvious that Knut and his wife infer from the simple observation about the crows they have seen to the general principle about all crows. Considering figure 5 this means that they infer from the subset (yellow circle) to the whole (blue circle). As in this example it is typical in a process of inductive reasoning that the premises are believed to support the conclusion, but do not ensure it.
+
+Figure 5
+
+The two different forms of inductive reasoning are "strong" and "weak" induction.
+The former describes that the truth of the conclusion is very likely, if the assumed premises are true. An example for this form of reasoning is the one given in the previous section. In this case it is obvious that the premise ("All crows Knut and his wife have ever seen are black") gives good evidence for the conclusion ("All crows on earth are black") to be true. But nevertheless it is still possible, although very unlikely, that not all crows are black.
+
+On the contrary, conclusions reached by "weak induction" are supported by the premises in a rather weak manner. In this approach the truth of the premises makes the truth of the conclusion possible, but not likely. An example for this kind of reasoning is the following:
+
+Premise: Knut always hears music with his IPod.
+
+Conclusion: Therefore, he reasons that all music is only heard with IPods.
+
+In this instance the conclusion is obviously false. The information the premise contains is not very representative and although it is true, it does not give decisive evidence for the truth of the conclusion.
+
+To sum it up, strong inductive reasoning gets to conclusions which are very probable whereas the conclusions reached through weak inductive reasoning on the base of the premises are unlikely to be true.
+
+If the strength of the conclusion of an inductive argument has to be determined, three factors concerning the premises play a decisive role. The following example which refers to Knut and his wife and the observations they made about the crows (see previous sections) displays these factors:
+
+When Knut and his wife observe in addition to the black crows in Germany also the crows in Spain, thenumber of observationsthey make concerning the crows obviously increases. Furthermore, therepresentativeness of these observationsis supported, if Knut and his wife observe the crows at all different day- and nighttimes and see that they are black every time. Theoretically it may be that the crows change their colour at night what would make the conclusion that all crows are black wrong. Thequality of the evidencefor all crows to be black increases, if Knut and his wife add scientific measurements which support the conclusion. For example they could find out that the crows` genes determine that the only colour they can have is black.
+Conclusions reached through a process of inductive reasoning are never definitely true as no one has seen all crows on earth and as it is possible, although very unlikely, that there is a green or brown exemplar. The three mentioned factors contribute decisively to the strength of an inductive argument. So, the stronger these factors are, the more reliable are the conclusions reached through induction.
+
+In a process of reasoning people often make use of certain heuristics which lead in many cases quickly to adequate conclusions but sometimes may cause errors. In the following, two of these heuristics (availability heuristicandrepresentativeness heuristic) are explained. Subsequently theconfirmation biasis introduced which sometimes influences peoples’ reasons according to their own opinion without them realising it.
+
+The availability heuristicThings that are more easily remembered are judged to be more prevalent. An example for this is an experiment done by Lichtenstein et al. (1978). The participants were asked to choose from two different lists the causes of death which occur more often. Because of the availability heuristic people judged more “spectacular” causes like homicide or tornado to cause more deaths than others, like asthma.
+The reason for the subjects answering in such a way is that for example films and news in television are very often about spectacular and interesting causes of death. This is why these information are much more available to the subjects in the experiment.  
+Another effect of the usage of the availability heuristic is calledillusory correlations. People tend to judge according to stereotypes. It seems to them that there are correlations between certain events which in reality do not exist. This is what is known by the term “prejudice”. It means that a much oversimplified generalization about a group of people is made. Usually a correlation seems to exist between negative features and a certain class of people (often fringe groups). 
+If, for example, one's neighbour is jobless and very lazy one tends to correlate these two attributes and to create the prejudice that all jobless people are lazy. This illusory correlation occurs because one takes into account information which is available and judges this to be prevalent in many cases.The representativeness heuristicIf people have to judge the probability of an event they try to find a comparable event and assume that the two events have a similar probability.
+Amos Tversky and Daniel Kahneman (1974) presented the following task to their participants in an experiment: “We randomly chose a man from the population of the U.S., Robert, who wears glasses, speaks quietly and reads a lot. Is it more likely that he is a librarian or a farmer?” 
+More of the participants answered that Robert is a librarian which is an effect of the representativeness heuristic. The comparable event which the participants chose was the one of a typical librarian as Robert with his attributes of speaking quietly and wearing glasses resembles this event more than the event of a typical farmer. So, the event of a typical librarian is better comparable with Robert than the event of a typical farmer.
+Of course this effect may lead to errors as Robert is randomly chosen from the population and as it is perfectly possible that he is a farmer although he speaks quietly and wears glasses. 
+The representativeness heuristic also leads to errors in reasoning in cases where theconjunction ruleis violated. This rule states that the conjunction of two events is never more likely to be the case than the single events alone. An example for this is the case of the feminist bank teller (Tversky & Kahneman, 1983). If we are introduced to a woman of whom we know that she is very interested in women’s rights and has participated in many political activities in college and we are to decide whether it is more likely that she is a bank teller or a feminist bank teller, we are drawn to conclude the latter as the facts we have learnt about her resemble the event of a feminist bank teller more than the event of only being a bank teller.
+
+But it is in fact much more likely that somebody is just a bank teller than it is that someone is a feminist in addition to being a bank teller. This effect is illustrated in figure 6 where the blue circle which stands for just being a bank teller is much larger and thus more probable than the smaller green circle which displays the conjunction of bank tellers and feminists which is a subset of bank tellers. 
+Confirmation bias
+This phenomenon describes the fact that people tend to decide in terms of what they themselves believe to be true or good. If, for example, someone believes that one has bad luck on Friday the thirteenth, he will especially look for every negative happening at this particular date but will be inattentive to negative happenings on other days. This behaviour strengthens the belief that there exists a relationship between Friday the thirteenth and having bad luck. This example shows that the actual information is not taken into account to come to a conclusion but only the information which supports one's own belief.
+This effect leads to errors as people tend to reason in a subjective manner, if personal interests and beliefs are involved.
+
+All the mentioned factors influence the subjective probability of an event so that it differs from the actual probability (probability heuristic). Of course all of these factors do not always appear alone, but they influence one another and can occur in combination during the process of reasoning.
+
+All the described constraints show how prone to errors inductive reasoning is and so the question arises, why we use it at all? 
+But inductive reasons are important nevertheless because they act as shortcuts for our reasoning. It is much easier and faster to apply the availability heuristic or the representativeness heuristic to a problem than to take into account all information concerning the current topic and draw a conclusion by using logical rules. 
+In the following excerpt of very usual actions there is a lot of inductive reasoning involved although one does not realize it on the first view. It points out the importance of this cognitive ability:
+
+The sunrise every morning and the sunset in the evening, the change of seasons, the TV program, the fact that a chair does not collapse when we sit on it or the light bulb that flashes after we have pushed a button.
+
+All of these cases are conclusions derived from processes of inductive reasoning. Accordingly, one assumes that the chair one is sitting on does not collapse as the chairs on which one sat before did not collapse. This does not ensure that the chair does not break into pieces but nevertheless it is a rather helpful conclusion to assume that the chair remains stable as this is very probable. To sum it up, inductive reasoning is rather advantageous in situations where deductive reasoning is just not applicable because only evidence but no proved facts are available. As these situations occur rather often in everyday life, living without the use of inductive reasoning is inconceivable.
+
+Induction vs. deduction
+
+The table below (Figure 7) summarises the most prevalent properties and differences between deductive and inductive reasoning which are important to keep in mind.
+
+According to the different levels of consequences, each process of making a decision requires appropriate effort and various aspects to be considered.  The following excerpt from the story about Knut makes this obvious:
+“After considering facts like the warm weather in Spain and shirts and shorts being much more comfortable in this case (information gathering and likelihood estimation) Knut reasons that he needs them for his vacation. In consequence, he finally makes the decision to pack mainly shirts and shorts in his bag (final act of choosing).”
+Now it seems like there cannot be any decision making without previous reasoning, but that is not true. Of course there are situations in which someone decides to do something spontaneously, with no time to reason about it. We will not go into detail here but you might think about questions like"Why do we choose one or another option in that case?"
+
+The psychological process ofdecision makingconstantly goes along with situations in daily life. Thinking about Knut again we can imagine him to decide between packing more blue or more green shirts for his vacation (which would only have minor consequences) but also about applying a specific job or having children with his wife (which would have relevant influence on important circumstances of his future life). The mentioned examples are both characterized by personal decisions, whereas professional decisions, dealing for example with economic or political issues, are just as important.
+
+There are three different ways to analyse decision making. The normative approach assumes a rational decision-maker with well-defined preferences. While the rational choice theory is based on a priori considerations, the descriptive approach is based on empirical observation and on experimental studies of choice behavior. The prescriptive enterprise develops methods in order to improve decision making.
+According to Manktelow and Reber´s definition, “utility refers to outcomes that are desirable because they are in the person’s best interest” (Reber, A. S., 1995; Manktelow, K., 1999). This normative/descriptive approach characterizes optimal decision making by the maximum expected utility in terms of monetary value. This approach can be helpful in gambling theories, but simultaneously includes several disadvantages. People do not necessarily focus on the monetary payoff, since they find value in things other than money, such as fun, free time, family, health and others. But that is not a big problem, because it rather is necessarily possible to apply the following graph, which shows the relation between (monetary) gains/losses and their subjective value (which is equal to utility), to all the valuable things mentioned above. Therefore not choosing the maximal monetary value does not automatically describe an irrational decision process.
+
+But even respecting the considerations above there might still be problems to make the “right” decision because of different misleading effects, which mainly arise because of the constraints of inductive reasoning. In general this means that our model of a situation/problem might not be ideal to solve it in an optimal way. The following three points are typical examples for such effects.
+
+Situation Models
+
+This effect is rather equal to the illusory correlations mentioned before in the part about the constraints of inductive reasoning. It is about the problem that models which people create might be misleading, since they rely on subjective speculations. An example could be deciding where to move by considering typical prejudices of the countries (e.g. always good pizza, nice weather and a relaxed life-style in Italy in contrast to some kind of boring food and steady rain in Great Britain). The predicted events are not equal to the events occurring indeed.
+(Kahneman & Tversky, 1982; Dunning & Parpal, 1989)
+
+Focusing Illusion
+
+Another misleading effect is the so-calledfocusing illusion.  By considering only the most obvious aspects in order to make a  certain decision (e.g. the weather) people often neglect various really important outcomes (e.g. circumstances at work). This effect occurs more often, if people judge about others compared with judgments about their own living.
+
+Framing Effect
+
+A problem can be described in different ways and therefore evoke different decision strategies. If a problem is specified in terms of gains, people tend to use a risk-aversion strategy, while a problem description in terms of losses leads to apply a risk-taking strategy.
+An example of the same problem and predictably different choices is the following experiment:
+A group of people asked to imagine themselves $300 richer than they are, is confronted with the choice of a sure gain of $100 or an equal chance to gain $200 or nothing. Most people avoid the risk and take the sure gain, which means they take the risk-aversion strategy. 
+Alternatively if people are asked to assume themselves to be $500 richer than in reality, given the options of a sure loss of $100 or an equal chance to lose $200 or nothing, the majority opts for the risk of losing $200 by taking the risk seeking or risk-taking strategy. This phenomenon is known asframing effectand can also be illustrated by the graph"Utility: outcomes that are desirable because they are in the person‘s best interest"above, which is a concave function for gains and a convex one for losses.
+(Foundations of Cognitive Psychology, Levitin, D. J., 2002)
+
+Decision making often includes the need to assign a reason for the decision and therefore justify it. This factor is illustrated by an experiment by A. Tversky and E. Shafir (1992):
+A very attractive vacation package has been offered to a group of students who have just passed an exam and to another group of students who have just failed the exam and have the chance to rewrite it after the holidays coming up. All students have the options to buy the ticket straight away, to stay at home, or to pay $5 for keeping the option open to buy it later.
+At this point, there is no difference between the two groups, since the number of students who passed the exam and decided to book the flight (with the justification of a deserving a reward), is the same as the number of students who failed and booked the flight (justified as consolation and having time for reoccupation).
+A third group of students who were informed to receive their results in two more days was confronted with the same problem. The majority decided to pay $5 and keep the option open until they would get their results.
+The conclusion now is that even though the actual exam result does not influence the decision, it is required in order to provide a rationale.
+
+Subsequently, the question arises how this cognitive ability of making decisions is realized in the human brain. As we already know that there are a couple of different tasks being are involved  in the whole process, there has to be something that coordinates and controls those brain activities – namely the executive functions. They are the brain's conductor, instructing other brain regions to perform, or be silenced, and generally coordinating their synchronized activity (Goldberg, 2001). Thus, they are responsible for optimizing the performance of all “multi-threaded” cognitive tasks.
+
+Locating those executive functions is rather difficult, as they cannot be appointed to a single brain region. Traditionally, they have been equated with the frontal lobes, or rather the prefrontal regions of the frontal lobes; but it is still an open question whether all of their aspects can be associated with these regions.
+
+Nevertheless, we will concentrate on the prefrontal regions of the frontal lobes, to get an impression of the important role of the executive functions within cognition. Moreover, it is possible to subdivide these regions into functional parts. But it is to be noted that not all researchers regard the prefrontal cortex as containing functionally different regions.
+
+We start by describing the effects of the loss of the ability to start something, to initiate an action. A person with executive dysfunction is likely to have trouble beginning to work on a task without strong help from the outside, while people with left frontal lobe damage often show impaired spontaneous speech and people with right frontal lobe damage rather show poor nonverbal fluency. Of course, one reason is the fact that this person will not have any intention, desire or concern on his or her own of solving the task since this is yet another characteristic of executive dysfunction. But it is also due to a psychological effect often connected with the loss of properly executive functioning: psychological inertia.
+
+Like in physics, inertia in this case means that an action is very hard to initiate, but once started, it is again very hard to shift or stop. This phenomenon is characterized by engagement in repetitive behavior, is called perseveration and can best be observed in a famous experiment, the Wisconsin Card Sorting Test or short, WCST.
+
+A participant is presented with cards that show certain objects. These cards are defined by shape, color and number of the objects on the cards. These cards now have to be sorted according to a rule based on one of these three criteria. The participant does not know which rule is the right one but has to reach the conclusion after positive or negative feedback of the experimenter. Then at some point, after the participant has found the correct rule to sort the cards, the experimenter changes the rule and the correct sorting will lead to negative feedback. The participant has to realize the change and adapt to it by sorting the cards according to the new rule.
+
+Patients with executive dysfunction have problems identifying the rule in the first place. It takes them noticeably longer because they have trouble using already given information to make a conclusion (will be explained later). But once they got to sorting correctly and the rule changes, they keep sorting the cards according to the old rule although many of them notice the negative feedback. They are just not able to switch to another sorting-principle, or at least they need many tries to learn the new one. They perseverate.
+
+Another problem caused by executive dysfunction can be observed in patients suffering from the so called environmental dependency syndrome. Their actions are impelled or obligated by their physical or social environment. This manifests itself in many different ways and depends to a large extent on the individual’s personal history. Examples are patients who begin to type when they see a computer key board, who start washing the dishes upon seeing a dirty kitchen or who hang up pictures on the walls when finding hammer, nails and pictures on the floor. This makes these people appear as if they were acting impulsively or as if they have lost their ‘free will’. It shows a lack of control for their actions. This is due to the fact that an impairment in their executive functions causes a disconnection between thought an action, these patients know that their actions are wrong but like in the WCST, they cannot control what they are doing. Even if they are told by which attribute to sort the cards, they will still keep sorting them sticking to the old rule due to major difficulties in the translation of these directions into action.
+
+What is needed to avoid problems like these are the abilities to start, stop or change an action but very likely also the ability to use information to direct behavior.
+
+To solve many tasks it is important that one is able to use given information. Often this means that material has to be processed in an abstract rather than in a concrete manner. Patients with executive dysfunction have abstraction difficulties. This is proven by another card sorting experiment (Delis et al., 1992).
+
+This time, the cards show names of animals and black or white triangles placed above or below the word. Again, the cards can be sorted with attention to different attributes of the animals (living on land or in water, domestic or dangerous, large or small) or the triangles (black or white, above or below word). Unlike in the WCST, people with frontal lobe damage fail to solve the task because they cannot even conceptualize the properties of the animals or the triangles, thus are not able to deduce a sorting-rule for the cards (in contrast, there are some individuals with only perseverative tendencies, they find a sorting-criterion but then are unable to switch it).
+
+As we have seen in other examples before, these problems in abstract conceptualization remain after the participants have been given abstract or even concrete cues. Therefore, it is sometimes believed that their problem might be caused by, once again, the difficulty in translating thought to action.
+Furthermore, once they found a rule to sort, they are unable to describe their sorting-criterion.
+
+In general, all these problems are not connected to perseverative tendencies but rather to major difficulties for patients with frontal lobe damage to conceptualize information in an abstract manner. Plus, that information cannot be used to guide behavior.
+A reason for these problems might be a general difficulty in strategy formation (will be discussed later).
+
+Cognitive estimation is the ability to use known information to make reasonable judgements or deductions about the world. Now the inability for cognitive estimation is the third type of deficits often observed in individuals with executive dysfunction.
+It is already known that people with executive dysfunction have a relatively unaffected knowledge base. This means they cannot retain knowledge about information or at least they are unable to make inferences based on it. There are various effects which are shown on such individuals. Now for example patients with frontal lobe damage have difficulty estimating the length of the spine of an average woman. Making such realistic estimation requires inference based on other knowledge which is in this case, knowing that the height of the average woman is about 5 ft 6 in (168 cm) and considering that the spine runs about one third to one half the length of the body and so on.
+Patients with such a dysfunction do not only have difficulties in their estimates of cognitive information but also in their estimates of their own capacities (such as their ability to direct activity in goal – oriented manner or in controlling their emotions).
+Prigatuno, Altman and O’Brien (1990) reported that when patients with anterior lesions associated with diffuse axonal injury to other brain areas are asked how capable they are of performing tasks such as scheduling their daily activities or preventing their emotions from affecting daily activities, they grossly overestimate their abilities.
+From several experiments Smith and Miler (1988) found out that individuals with frontal lobe damages have no difficulties in determining whether an item was in a specific inspection series they find it difficult to estimate how frequently an item did occur. This may not only reflect difficulties in cognitive estimation but also in memory task that place a premium on remembering temporal information.
+Later the fact that individuals with such dysfunction and frontal lobe damage are impaired on a variety of sequencing tasks will be explained more in detail.
+Thus both difficulties (in cognitive estimation and in temporal sequencing) may contribute to a reduced ability to estimate frequency of occurrence.
+Despite these impairments in some domains the abilities of estimation are preserved in patients with frontal lobe damage. Such patients also do have problems in estimating how well they can prevent their emotions for affecting their daily activities. They are also as component as patients with temporal lobe damage or neurologically intact patients at judging how many dues they will need to solve a puzzle. For solving a puzzle patients with frontal lobe damage try to guess the answer.
+Therefore the ability for estimating is not entirely lost but is compromised in a number of areas.
+
+People with executive dysfunction are unable to look at situations from more than one point and to produce a variety of behavior and therefore unable to be cognitively flexible.
+Now this cognitive inflexibility can be called distinct from and related to cognitive estimation.
+But when dealing with new situations this flexibility is very important. It is also required when a person has to react newly to an old stimulus. Because damage to the prefrontal areas in the brain leads to difficulties in dealing with novel situations some theorists suggest that this area plays an important role.
+
+The last part that is affected by the breakdown of executive functions we want to discuss are the problems in goal-directed behavior. This topic is closely related to the area ofproblem solvingsince this is nothing else than organizing behavior towards a goal.
+
+To make this more plastic, for the course of this topic we want to introduce an example that requires an individual to behave goal-directed.
+Let us imagine that a person, call him John, has just got up in the morning and wants to get dressed, in this case John’s goal is being dressed. 
+For neurologically intact people this task is not at all hard to master, they might not even realize that it is any task because it is so trivial.
+But if you look closely, there are a lot of things that have to be taken into account while working towards being fully dressed and any other task – trivial or not – in general.
+
+Now, in the case of John, which are these?
+
+Goal must be kept in mind
+
+During the whole process it is important to always remember what it actually was that John wanted to do. If he starts getting dressed and forgets that he wanted to get dressed quickly because he might have oversplept and is late in time, and starts making his breakfast, he definitely will not reach his goal of getting fully dressed.
+
+Dividing into subtasks and sequencing
+
+Most tasks have to de divided into subtasks, in John’s case: getting clothes, such as underwear, a shirt, trousers, socks and a tie, and putting them on one after the other in a sensible order. This means that John has to sequence the subtasks. He has to think about the fact that he cannot put on any clothes that are still inside of the wardrobe and that he cannot put on the underwear after he has put on his trousers.
+
+Completed portions must be kept in mind
+
+John has to remember which of the subtasks he has performed already, meaning that he need not do them again. He only needs to get one piece (or pair) of clothes of each kind out of the wardrobe and after he has put on his tie he must know that he does not have to look for another one and put this on as well.
+
+Flexibility and adaptability
+
+Imagine that John has a shirt that is his favourite one and he plans on wearing it today. He looks into the wardrobe and does not find it. Now he has to realize that the shirt is not inside the wardrobe and has to develop alternative ways to complete the task of getting dressed. Maybe his wife has put the shirt into the laundry because it was dirty? In this case, John has to adapt to this situation and has to pick another shirt that was not in his plan originally.
+
+Evaluation of actions
+
+Along the way of reaching his ultimate goal John constantly has to evaluate his performance in terms of ‘How am I doing considering that I have the goal of being dressed?’. If he is looking for socks or is working on the knot of his tie (after he has put on all the other clothes), he should know that he is doing perfectly fine in completing the subtasks required to reach his goal. But if he is distracted by his new tuxedo inside the wardrobe and starts getting dressed in it just to see how it looks on him, he has to realize that he is not working towards his goal of being properly dressed for a day at the office. He also will not reach his goal if he has the opinion that he is done getting dressed when he is only wearing his underpants and socks.
+
+As we have seen, goal directed behaviour is by far not as easy as it looks on first sight. Most people still will not have any trouble though, but think about what we have said about executive functions already.
+
+The breakdown of executive functions impairs goal directed behavior to a large extend. In which way cannot be stated in general, it depends on the specific brain regions that are damaged.
+So it is quite possible that an individual with a particular lesion has problems with two or three of the five points described above and performs within average regions when the other abilities are tested, however, if only one link is missing from the chain, the whole plan might get very hard or even impossible to master. Furthermore, the particular hemisphere affected plays a role as well. Patients with lesions in the left hemisphere have difficulties with one aspect of a task and patients with lesions ind the right hemisphere have difficulties with other aspects of the same tasks.
+
+Problems in sequencing
+
+For example, in an experiment (Milner, 1982) people were shown a sequence of cards with pictures. The experiment included two different tasks: recognition trials and recency trials. In the former the patients were shown two different pictures, one of them has appeared in the sequence before, and the participants had to decide which one it was. In the latter they were shown two different pictures, both of them have appeared before, they had to name the picture that was shown more recently than the other one.
+The results of this experiment showed that people with lesions in temporal regions have more trouble with the recognition trial and patients with frontal lesions have difficulties with the recency trial since anterior regions are important for sequencing. This is due to the fact that the recognition trial demanded a properly functioningrecognition memory, the recency trial a properly functioningmemory for item order. These two are dissociable and located in different areas of the brain.
+
+Another interesting result was the fact that lesions in the frontal lobes of left and right hemisphere impaired different abilities. While a lesion in the right hemisphere caused trouble in making recency judgements, a lesion in the left hemisphere impaired the patient’s performance only when the presented material was verbal or in a variation of the experiment that required self-ordered sequencing.
+Because of that we know that the ability to sequence behavior is not only located in the frontal lobe but in the left hemisphere particularly when it comes to motor action.
+
+The frontal lobe is not only important for sequencing but also forworking memorybecause the patient has to keep track of the items presented to them to make recency judgements. This idea is supported by the fact that lesions in the lateral regions of the frontal lobe are much more likely to impair this ability than damage to other areas of the frontal cortex.
+
+But this is not the only thing there is to sequencing. For reaching a goal in the best possible way it is important that a person is able to figure out which sequence of actions, which strategy, best suits the purpose, in addition to just being able to develop a correct sequence.
+This is proven by an experiment called 'Tower of London' (Shallice, 1982) which is similar to the famous 'Tower of Hanoi' task with the difference that this task required three balls to be put onto three poles of different length so that one pole could hold three balls, the second one two and the third one only one ball, in a way that a changeable goal position is attained out of a fixed initial position in as few moves as possible. Especially patients with damage to the left frontal lobe proved to work inefficiently and ineffectively on this task, they needed many moves and engaged in actions that did not lead toward the goal.
+But in the end, although there are differences in how executive functions are affected depending on the particular hemisphere where the frontal lobe lesion is located, abilities connected with sequencing are mostly provided by overlapping structures in both frontal lobes.
+
+Problems in shifting and modifying strategies
+
+The intact neuronal tissue in the frontal lobe is also crucial for another exectuvie function connected with goal directed behavior that we described above: flexibility and adaptability.
+This means that a person with frontal lobe damage will have difficulties in shifting in set - meaning creating a new plan after it has been found out that the original one cannot be carried out for some reason - and in modifying the initial strategy according to this new set.
+In what particular way this can be observed in patients can again not be stated in general but depends on the nature of the shift that has to be made.
+
+An experiment (Owen, 1991) that presented patients with pictures that required different kinds of conceptual shifts, discrimination between two black shapes, between two black shapes while ignoring intermingled white shapes ('intradimensional') and between the two white shapes ('extradimensional'), showed that patients with lesions in the frontal lobe have difficulties only with the extradimensional shift. This shows that these people cannot apply general rules to situations that are different from the original situations when these rules were learned. Besides, they are unable to create alternatives to their original plans because they stay fixed on their original way of dealing with a situation and cannot disengage from it. This is also part of the usual perseveration problems found in patients with executive dysfunction.
+
+Another problem of patients with frontal lobe damage is that they do not use as many appropriate hypotheses for creating a strategy as people with damage to other brain regions do or they suddenly abandon it when they have found an appropriate hypothesis. Also, it seems not very surprising that they have big trouble switching between hypotheses indicated by Owen's experiment. Even when it is clear that one hypothesis cannot be the right one, patients will stick to it nevertheless and are unable to abandon it (called 'tunnel vision').
+
+These earlier described problems of 'redirecting' of one's strategies stand in contrast to the actual 'act of switching' between tasks.
+This is yet another problem for patients with frontal lobe damage. Since the control system that leads task switching as such is independent from the parts that actually perform these tasks, the task switching is particularly impaired in patients with lesions to the dorsolateral prefrontal cortex while at the same time they have no trouble with performing the single tasks alone. This of course, causes a lot of problems in goal directed behavior because as it was said before, most tasks consist of smaller subtasks that have to be completed.
+
+Problems with the interpretation of available information
+
+Quite often, if we want to reach a goal, we get hints on how to do it best. This means we have to be able to interpret the available information in terms of what the appropriate strategy would be. For many patients of executive dysfunction this is not an easy thing to do either. They have trouble to use this information and thus, engage in inefficient actions and it takes them much longer to solve a task than it would if they took into account the extra information and developed an effective strategy.
+
+Problems with self-criticism and -monitoring
+
+The last problem for people with frontal lobe damage we want to present here is the last point in the above list of properties important for proper goal directed behavior. It is the ability to evaluate one's actions, an ability that is missing in most patients. These people are therefore very likely to 'wander off task' and engage in behavior that does not help them to attain their goal. In addition to that, they are also not able to determine whether their task is already completed at all. Reasons for this are thought to be a lack of motivation or lack of concern about one's performance (frontal lobe damage is usually accompanied by changes in emotional processing) but these are probably not the only explanations there are for these problems.
+
+Another important brain region in this context – the medial portion of the frontal lobe – is responsible for detecting behavioral errors made while working towards a goal. This has been shown byERP experimentswhere there was an error-related negativity 100ms after an error has been made.
+If this area is damaged, this mechanism cannot work properly anymore and the patient loses the ability to detect errors and thus monitor his own behavior.
+
+However, in the end we must add that although executive dysfunction causes an enormous number of problems in behaving correctly towards a goal, most patients when assigned with a task are indeed anxious to solve it but are just unable to do so which can manifest in all the various ways discussed in the passages above.
+
+In order to explain that patients withfrontal lobedamage have difficulties in performing executive functions, four major approaches have developed. Each of them leads to an improved understanding of the role of frontal regions in executive functions, but none of these theories covers all the deficits occurred.
+
+The most anatomically specific approach assumes the dorsolateral prefrontal area of the frontal lobe to be critical for working memory. The working memory which has to be clearly distinguished from the long term memory keeps information on-line for use in performing a task.
+
+Not being generated for accounting for the broad array of dysfunctions it focuses on the three following deficits. Sequencing information and directing behavior toward a goal, understanding of temporal relations between items and events, and some aspects of environmental dependency and perseveration.
+
+Research on monkeys has been helpful to develop this approach (the delayed-respone paradigm, Goldman-Rakic, 1987, serves as a classical example.
+
+In 2000 the working memory was defined by Baddeley as “a limited capacity system for temporary storage and manipulation of information for complex tasks such as comprehension, learning, and reasoning” (Goldstein) consisting of three components. 
+The central executive coordinating the activity of the phonological loop (which holds verbal and auditory information) and the visuospatioal sketch pad (which holds visual and spatial information) and pulling information from long-term memory is the most important part.
+
+There are two theories based on the underlying assumption that “the frontal lobes are especially important for controlling behavior in nonroutine situations and for overriding typical stimulusresponse associations, but contribute little to automatic and effortless behavior.” (Banich, p. 397).
+
+Stuss and Benson (1986) consider control over behavior to occur in a hierarchical manner. They distinguish between three different levels, of which each is associated with a particular brain region. In the first level sensory information is processed automatically by posterior regions, in the next level (associated with the executive functions of the frontal lobe) conscious control is needed to direct behavior toward a goal and at the highest level controlled self-reflection takes place in the prefrontal cortex.
+
+This model is appropriate for explaining deficits in goal-oriented behavior, in dealing with novelty, the lack of cognitive flexibility and the environmental dependency syndrome. Furthermore it can explain the inability to consciously control action and to self-criticize.
+
+The second model developed by Shalice (1982) proposes a system consisting of two parts to influence the choice of behavior. The first part, a cognitive system called contention scheduling, is in charge of more automatic processing. Various links and processing schemes cause a single stimulus to result in an automatic string of actions. Once an action is initiated, it remains active until inhibited.
+
+The second cognitive system is the supervisory attentional system which directs attention and guids action through decision processes and is only active “when no processing schemes are available, when the task is technically difficult, when problem solving is required and when certain response tendencies must be overcome” (Banich).
+
+This theory supports the observations of few deficits in routine situations, but relevant problems in dealing with novel tasks (e.g. the Tower of London task, Shallice), since no schemes in contention scheduling exist for dealing with it.
+Impulsive action is another characteristic of patients with frontal lobe damages which can be explained by this theory. Even if asked not to do certain things, such patients stick to their routines and cannot control their automatic behavior.
+
+The approach based on scripts, which are sets of events, actions and ideas that are linked to form a unit of knowledge was developed  by Schank (1982) amongst others.
+
+Containing information about the setting in which an event occurs, the set of events needed to achieve the goal and the end event terminating the action, such managerial knowledge units (MKUs) are stored in the prefrontal cortex. They are organized in a hierarchical manner being abstract at the top and getting more specific at the bottom.
+
+Damage of the scripts leads to not being able to behave goal-directed, finding it easier to cope with usual situations (due to the difficulty of retrieving a MKU of a novel event) and deficits in the initiation and cessation of action (because of MKUs specifying the beginning and ending of an action.)
+
+The perspective of artificial intelligence and machine learning introduced an approach which assumes that each person has a goal list, which contains the tasks requirements or goals. This list is fundamental to guiding behavior and since a frontal lobe damage disrupts the ability to form a goal list, the theory helps to explain difficulties in abstract thinking, perceptual analysis, verbal output and staying on task.  It can also account for the strong environmental influence on patients with frontal lobe damages, due to the lack  of internal goals and the difficulty of organizing actions toward a goal.
