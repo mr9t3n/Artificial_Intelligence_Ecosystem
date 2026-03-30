@@ -10,4 +10,3 @@ requests
 beautifulsoup4
 pypdf2
 pdfminer.six
-
